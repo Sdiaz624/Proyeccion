@@ -1,0 +1,17 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 4/04/2015, 08:14:55 PM
+    Author     : home
+*/
+
+
+@font-face {
+  font-family: 'Allura';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Allura'), local('Allura-Regular'), url(http://fonts.gstatic.com/s/allura/v4/POH_k539yBSzDKiiyA98Tg.woff2) format('woff2'), url(http://fonts.gstatic.com/s/allura/v4/ExiT4hKozv4E-LiOi2vvJA.woff) format('woff');
+}
